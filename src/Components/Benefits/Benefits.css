@@ -1,0 +1,11 @@
+.benefits{
+    height: fit-content;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    background-color: hsl(208, 68%, 90%);
+    margin: 50px 0px;
+}
+
+.col p{
+    text-align: justify;
+}

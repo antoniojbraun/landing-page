@@ -1,0 +1,35 @@
+.container-second-argument{
+    background-color: #CED8E0;
+}
+
+.container-second-argument button{
+    width: 400px;
+    height: 60px;
+    font-size: 30px;
+}
+
+.container-cta{
+    position: relative
+}
+
+.backGround-1{
+    background-color: #F2F5F7 ;
+    position: inherit;
+    height: 250px;
+}
+.backGround-2{
+    position: inherit;
+    background-color: #E3E8ED ;
+    height: 250px;
+}
+
+.divCardCta{
+    padding: 20px;
+    width: 380px;
+    height: 341px;
+    background-image: url('/public/imgs/img-card-cta.png');
+    position: absolute;
+    top:23.7%;
+    left: 37%;
+
+}
