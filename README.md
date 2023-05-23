@@ -8,3 +8,8 @@
 - primeiro execute para instalar as dependências: npm install
 - depois execute o comando "npm start" para rodar o projeto.
 
+### Páginas
+## Foram criadas 3 páginas:
+- Home - que fida na rota /
+- Thankyou - que fica na rota /thankyou
+- leadpage - que fica na rota /leadpage
